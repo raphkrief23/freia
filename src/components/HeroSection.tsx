@@ -1,4 +1,4 @@
-import heroChef from "@/assets/gallery/upload-1776171846740-0.webp";
+import heroChef from "@/assets/gallery/upload-1776172589628-0.png";
 
 const HeroSection = () => {
   return (
