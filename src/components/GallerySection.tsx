@@ -1,5 +1,5 @@
 import { useScrollReveal } from "@/hooks/use-scroll-reveal";
-import gallery1 from "@/assets/gallery/photo1.jpg";
+import gallery1 from "@/assets/gallery/facade_cousin.jpg";
 import gallery2 from "@/assets/gallery/photo2.jpg";
 import gallery3 from "@/assets/gallery/photo3.jpg";
 import gallery4 from "@/assets/gallery/photo4.jpg";
