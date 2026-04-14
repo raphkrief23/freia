@@ -4,7 +4,7 @@ const categories = [
   {
     title: "Menus",
     items: [
-      { name: "Menu 4 temps", price: "50,00" },
+      { name: "Menu 4 temps", price: "60,00" },
       { name: "Menu 6 temps", price: "70,00" },
     ],
   },
